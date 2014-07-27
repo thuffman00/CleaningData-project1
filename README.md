@@ -3,6 +3,7 @@ CleaningData-project1
 ***********************************************************************************************
 
 Getting and Cleaning Data - Project 1
+
 Version 1.0
 
 ***********************************************************************************************
@@ -15,6 +16,7 @@ The Project 1 is designed to familaize the student with the process of getting a
 data. The files used were of a previous experiment perfomed by Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, and Luca Oneto SmartLab in Italy. They measured the actyivities of 30 subjects performing different activities. Project 1 uses the files produced from this experiment to cleanse and reshape.
 
 "average.txt"" - output of tidy data
+
 "CodeBookproject1.md"" - project1 code book
 ***********************************************************************************************
 
